@@ -1,2 +1,2 @@
 # Smart-Lamp-System
-Smart Lamp System Project with Visual Sensor 
+Smart Lamp System Project with Visual Sensor for my Thesis Project
